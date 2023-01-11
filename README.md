@@ -10,3 +10,6 @@ Simple netcat utility. It can connect to a target, listen to a port, execute var
 
 ## OS Detect
 Simple OS type detection using bash.
+
+## Get Local Info
+A simple utility on bash for collecting data from a local machine and writing to a file. 
